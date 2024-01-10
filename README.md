@@ -1,7 +1,7 @@
 # Wiki
 
 
-:no_entry_sign: **no longer actively maintained** :no_entry_sign:
+:no_entry_sign: **no longer actively maintained** :no_entry_sign:v
 
 This wiki is a now a largely outdated collection of resources explaining the state-of-the-art in Ethereum circa 2014-2018.
 
